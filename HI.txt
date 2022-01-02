@@ -1,0 +1,11 @@
+ContentPlaceHolder1_UcCourseEval1_DataListLectureEval_GrdViewinstEval_0_Rating1_0_Star_5
+
+/html/body/div[3]/div[3]/form/fieldset/div/div/div[2]/table/tbody/tr[1]/td/div/table/tbody/tr[2]/td[2]/div/a/span[5]
+ContentPlaceHolder1_UcCourseEval1_DataListLectureEval_GrdViewinstEval_0_Rating1_14_Star_5
+
+
+/html/body/div[3]/div[3]/form/fieldset/div/div/div[2]/table/tbody/tr[1]/td/div/table/tbody/tr[2]/td[2]/div/a/span[4]
+/html/body/div[3]/div[3]/form/fieldset/div/div/div[2]/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/a/span[3]
+
+//*[@id="ContentPlaceHolder1_UcCourseEval1_DataListLectureEval_GrdViewinstEval_0"]/tbody
+//*[@id="ContentPlaceHolder1_UcCourseEval1_DataListLectureEval"]/tbody
